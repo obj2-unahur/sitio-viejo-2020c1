@@ -11,8 +11,8 @@ semanas:
         * crearte una cuenta en [GitHub](https://github.com/);
         
     ejercicios:
-      - name: Multipepita
-        repo: unahur-obj2/multipepita
+      - name: pepita-conoce-java
+        repo: unahur-obj2/pepita-conoce-java
         classroom: https://classroom.github.com/a/4pxDNIhk
     
 ---
@@ -43,12 +43,6 @@ semanas:
       {% endfor %}
     </tbody>
 </table>
-{% endif %}
-
-{% if semana.mumuki %}
-### Mumuki
-
-Te recomendamos resolver la guía [{{semana.mumuki.guia}}]({{semana.mumuki.url}}).
 {% endif %}
 
 {% endfor %}
