@@ -5,7 +5,7 @@ semanas:
   - descripcion: |
       Vamos a presentar la materia y charlar un poco sobre diseño con objetos y la necesidad de herramientas para abordar           problemas más voluminosos usando la base de lo viste en Programación con Objetos I.
       
-      Por favor completa ese formulario con tu nombre , mail y usuario de github (https://forms.gle/WKYmpsr3HQSJwD197)
+      Por favor completa ese formulario con tu nombre , mail y usuario de github [Información de contacto](https://forms.gle/WKYmpsr3HQSJwD197)
 
       Es casi imposible que hayas llegado a esta materia y no tengas tu cuenta en Github ... pero por si las moscas:
         * crearte una cuenta en [GitHub](https://github.com/)
