@@ -5,15 +5,15 @@ semanas:
   - descripcion: |
       Vamos a presentar la materia y charlar un poco sobre diseño con objetos y la necesidad de herramientas para abordar           problemas más voluminosos usando la base de lo viste en Programación con Objetos I.
 
-      Vamos a empezar a Jugar un poco con el ecosistema Java con el siguiente enunciado [figuras]()
-
       Es casi imposible que hayas llegado a esta materia y no tengas tu cuenta en Github ... pero por si las moscas:
-        * crearte una cuenta en [GitHub](https://github.com/);
+        * crearte una cuenta en [GitHub](https://github.com/)
+        
+      Hoy vamos a empezar a jugar con Java y buscar entre todos que cosas tiene de parecidas a Wollok y en que cosas se      diferencia.
         
     ejercicios:
-      - name: pepita-conoce-java
-        repo: unahur-obj2/pepita-conoce-java
-        classroom: https://classroom.github.com/a/4pxDNIhk
+      - name: figuras
+        repo: unahur-obj2/figuras
+        classroom: https://classroom.github.com/a/Ku1IcSgB
     
 ---
 # Semana a semana
