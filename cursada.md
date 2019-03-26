@@ -2,7 +2,7 @@
 layout: default
 
 semanas:
-  - descripcion:
+  - descripcion: |
       Vamos a presentar la materia y charlar un poco sobre diseño con objetos y la necesidad de herramientas para abordar           problemas más voluminosos usando la base de lo viste en Programación con Objetos I.
 
       Vamos a empezar a Jugar un poco con el ecosistema Java con el siguiente enunciado [figuras]()
