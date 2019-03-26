@@ -2,21 +2,19 @@
 layout: default
 
 semanas:
-  - descripcion: |
-      Vamos a trabajar con un ejercicio de diagnóstico, cuyo enunciado podés encontrar [acá]().
+  - descripcion:
+      Vamos a presentar la materia y charlar un poco sobre diseño con objetos y la necesidad de herramientas para abordar           problemas más voluminosos usando la base de lo viste en Programación con Objetos I.
 
-      Además vas a tener que cumplir algunos pasos administrativos:
-        * completar la encuesta de inicio de curso, [acá](https://goo.gl/forms/OKvLH5ivKYyx0fBi1);
+      Vamos a empezar a Jugar un poco con el ecosistema Java con el siguiente enunciado [figuras]()
+
+      Es casi imposible que hayas llegado a esta materia y no tengas tu cuenta en Github ... pero por si las moscas:
         * crearte una cuenta en [GitHub](https://github.com/);
-        * registrarte en Mumuki: [acá si cursás a la tarde](https://mumuki.io/wollok-obj1/join/6NvUVA) y [acá si cursás a la noche](https://mumuki.io/wollok-obj1/join/Bj85hg).
-        **Ojo:** podés entrar con tu cuenta de Google, de GitHub o crearte una nueva dentro de Mumuki con mail y contraseña. Lo importante es que entres _siempre de la misma forma_, caso contrario no podremos registrar correctamente tu progreso
+        
     ejercicios:
       - name: Multipepita
-        repo: wollok/multipepita
+        repo: unahur-obj2/multipepita
         classroom: https://classroom.github.com/a/4pxDNIhk
-    mumuki:
-      guia: Personas y barrios - qué anda, qué no, cuánto da
-      url: https://mumuki.io/wollok-obj1/lessons/482-objetos-y-mensajes-personas-y-barrios-que-anda-que-no-cuanto-da
+    
 ---
 # Semana a semana
 
