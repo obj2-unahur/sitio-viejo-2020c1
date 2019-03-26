@@ -2,11 +2,12 @@
 layout: landing
 ---
 
-¡Bienvenido/a!
+¡Bienvenide!
 
-En esta página vas a encontrar _casi_ todo lo necesario para tu cursada de **Programación con Objetos II**, la materia que nos reúne. Decimos _casi_ porque hay mucho material que "vive" en otras páginas, pero este sitio funcionará como punto de partida para llegar allí.
+En esta página vas a encontrar lo necesario para tu cursada de **Programación con Objetos II**. Está materia es la continuación de [Programación con Objectos I](https://obj1-unahur.github.io/), vamos a reforzar y profundizar lo ya visto así como también aprender lenguajes y herramientas usados en la industria.
 
-Si es la primera vez que entrás acá, te recomendamos que leas el [contrato pedagógico](/contrato-pedagogico), donde explicamos todo lo que tenés que saber para apobar esta materia. Si ya viniste varias veces, probablemente quieras ir a la sección [cursada](/cursada).
+* Condiciones para aprobar la materia [contrato pedagógico](/contrato-pedagogico)
+* Detalle de la cursada [cursada](/cursada).
 
 ## Días y horarios de cursada
 
