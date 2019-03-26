@@ -14,7 +14,7 @@ semanas:
         
     ejercicios:
       - name: figuras
-        repo: unahur-obj2/figuras
+        repo: obj2-unahur/figuras
         classroom: https://classroom.github.com/a/Ku1IcSgB
     
 ---
