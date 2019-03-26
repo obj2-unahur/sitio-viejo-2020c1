@@ -8,7 +8,7 @@ semanas:
       Es casi imposible que hayas llegado a esta materia y no tengas tu cuenta en Github ... pero por si las moscas:
         * crearte una cuenta en [GitHub](https://github.com/)
         
-      Hoy vamos a empezar a jugar con Java y buscar entre todos que cosas tiene de parecidas a Wollok y en que cosas se      diferencia.
+      Hoy vamos a empezar a jugar con Java y buscar entre todos, que cosas tiene de parecidas a Wollok y en que cosas se      diferencia.
         
     ejercicios:
       - name: figuras
