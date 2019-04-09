@@ -28,10 +28,10 @@ semanas:
  - descripcion: |
       Presentamos la solución al ejercicio figuras.
       Vamos a ver temas nuevos con el lenguaje Java:
-      * Interfaces
-      * Introducción a colecciones en Java
-      * Métodos equals / hashcode / toString
-      * Introducción a Excepciones en Java
+      - Interfaces
+      - Introducción a colecciones en Java
+      - Métodos equals / hashcode / toString
+      - Introducción a Excepciones en Java
         
     ejercicios:
       - name: tp1-rocola
