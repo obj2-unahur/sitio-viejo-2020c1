@@ -16,6 +16,29 @@ semanas:
       - name: figuras
         repo: obj2-unahur/figuras
         classroom: https://classroom.github.com/a/Ku1IcSgB
+        
+ - descripcion: |
+      Fue una semana corta, solo tuvimos una clase de 2 horas, continuamos con dudas sobre el ejercicio figuras.
+        
+    ejercicios:
+      - name: figuras
+        repo: obj2-unahur/figuras
+        classroom: https://classroom.github.com/a/Ku1IcSgB
+        
+ - descripcion: |
+      Presentamos la solución al ejercicio figuras.
+      Vamos a ver temas nuevos con el lenguaje Java:
+      * Interfaces
+      * Introducción a colecciones en Java
+      * Métodos equals / hashcode / toString
+      * Introducción a Excepciones en Java
+        
+    ejercicios:
+      - name: tp1-rocola
+        repo: obj2-unahur/rocola
+        classroom: https://classroom.github.com/a/_vqgzCtU        
+        
+        
     
 ---
 # Semana a semana
