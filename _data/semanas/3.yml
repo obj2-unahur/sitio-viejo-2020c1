@@ -1,4 +1,4 @@
-- descripcion: |
+descripcion: |
       Presentamos la solución al ejercicio figuras.
       Vamos a ver temas nuevos con el lenguaje Java:
       - Interfaces
@@ -6,7 +6,7 @@
       - Métodos equals / hashcode / toString
       - Introducción a Excepciones en Java
         
-    ejercicios:
+ejercicios:
       - name: tp1-rocola
         repo: obj2-unahur/rocola
         classroom: https://classroom.github.com/a/_vqgzCtU
