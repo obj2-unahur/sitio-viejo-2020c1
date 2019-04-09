@@ -14,7 +14,7 @@ Para poder rendir el parcial será necesario cumplir con un porcentaje mínimo d
 
 ## Entregas
 
-Además de las evaluaciones formales vamos a contar con una serie de entregas obligatorias, pequeños ejercicios prácticos que deberían dar cuenta de que tu aprendizaje va por la senda que proponemos. Algunas de estas entregas serán a través de [Mumuki](https://mumuki.io/wollok-obj1) y otras a través de [GitHub](https://github.com/), todas en formato digital.
+Además de las evaluaciones formales vamos a contar con una serie de entregas obligatorias, pequeños ejercicios prácticos que deberían dar cuenta de que tu aprendizaje va por la senda que proponemos. Estas entregas serán a través de través de [GitHub](https://github.com/), todas en formato digital.
 
 Consideramos que encontrarte cara a cara con un problema que tenés que resolver es una muy buena forma de medir efectivamente cuánto aprendiste. Por esto, las entregas son **obligatorias** y deberás **entregar al menos el 80%** de ellas en tiempo y forma para poder presentarte a rendir el parcial.
 

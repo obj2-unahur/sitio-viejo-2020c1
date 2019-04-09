@@ -1,28 +1,13 @@
 ---
 layout: default
-
-semanas:
-  - descripcion: |
-      Vamos a trabajar con un ejercicio de diagnóstico, cuyo enunciado podés encontrar [acá]().
-
-      Además vas a tener que cumplir algunos pasos administrativos:
-        * completar la encuesta de inicio de curso, [acá](https://goo.gl/forms/OKvLH5ivKYyx0fBi1);
-        * crearte una cuenta en [GitHub](https://github.com/);
-        * registrarte en Mumuki: [acá si cursás a la tarde](https://mumuki.io/wollok-obj1/join/6NvUVA) y [acá si cursás a la noche](https://mumuki.io/wollok-obj1/join/Bj85hg).
-        **Ojo:** podés entrar con tu cuenta de Google, de GitHub o crearte una nueva dentro de Mumuki con mail y contraseña. Lo importante es que entres _siempre de la misma forma_, caso contrario no podremos registrar correctamente tu progreso
-    ejercicios:
-      - name: Multipepita
-        repo: wollok/multipepita
-        classroom: https://classroom.github.com/a/4pxDNIhk
-    mumuki:
-      guia: Personas y barrios - qué anda, qué no, cuánto da
-      url: https://mumuki.io/wollok-obj1/lessons/482-objetos-y-mensajes-personas-y-barrios-que-anda-que-no-cuanto-da
 ---
 # Semana a semana
 
-{% for semana in page.semanas reversed %}
+{% for semana_hash in site.data.semanas reversed %}
+{% assign numero_semana = semana_hash[0] %}
+{% assign semana = semana_hash[1] %}
 
-## Semana {{forloop.rindex}}
+## Semana {{numero_semana}}
 {{semana.descripcion}}
 
 {% if semana.ejercicios %}
@@ -47,10 +32,9 @@ semanas:
 </table>
 {% endif %}
 
-{% if semana.mumuki %}
-### Mumuki
 
-Te recomendamos resolver la guía [{{semana.mumuki.guia}}]({{semana.mumuki.url}}).
+{% if forloop.last == false %}
+<hr class="titulo-semana">
 {% endif %}
 
 {% endfor %}
