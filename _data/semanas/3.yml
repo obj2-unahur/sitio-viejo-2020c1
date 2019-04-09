@@ -1,9 +1,10 @@
 descripcion: |
       Presentamos la solución al ejercicio figuras.
       Vamos a ver temas nuevos con el lenguaje Java:
-      - Interfaces
+      - Intro a Interfaces Java
+      - Intro generics
       - Introducción a colecciones en Java
-      - Métodos equals / hashcode / toString
+      - Repaso métodos equals / hashcode / toString
       - Introducción a Excepciones en Java
         
 ejercicios:
