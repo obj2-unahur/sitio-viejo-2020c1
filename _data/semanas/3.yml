@@ -6,6 +6,8 @@ descripcion: |
       - Introducción a colecciones en Java
       - Repaso métodos equals / hashcode / toString
       - Introducción a Excepciones en Java
+      
+      - Lo visto en clase durante esta semana está en este repo https://github.com/obj2-unahur-2019s1/semana-3.git
         
 ejercicios:
       - name: tp1-rocola
