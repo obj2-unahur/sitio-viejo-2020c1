@@ -32,9 +32,4 @@ layout: default
 </table>
 {% endif %}
 
-
-{% if forloop.last == false %}
-<hr class="titulo-semana">
-{% endif %}
-
 {% endfor %}
