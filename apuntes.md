@@ -24,4 +24,5 @@ Les voy a pasar link puntuales a tutoriales de la documentación que nos van a s
 - [Aprendiendo Java](https://docs.oracle.com/javase/tutorial/java/index.html)
 - [Excepciones](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
 - [Colecciones](https://docs.oracle.com/javase/tutorial/collections/index.html)
+- [Streams](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html)
 - [Generics](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
