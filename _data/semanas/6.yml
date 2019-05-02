@@ -6,12 +6,11 @@ descripcion: |
       Se puede acceder por web y tiene un cliente para el celu.
       Les tiene que haber llego a su mail una invitación al canal.
       
+      El jueves vamos a ver el patrón de diseño Strategy.
+      
 ejercicios:
-      - name: descuentos
-        repo: obj2-unahur-2019s1/descuentos
-        classroom: https://classroom.github.com/a/iB6Z0dVP
-      - name: tp2-n3fli
-        repo: obj2-unahur-2019s1/n3fli
-        classroom: https://classroom.github.com/a/GNpVWxHU  
+      - name: patos
+        repo: obj2-unahur-2019s1/patos
+        classroom: https://classroom.github.com/a/JJQ-35aN
         
         
