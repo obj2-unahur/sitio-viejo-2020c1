@@ -1,0 +1,15 @@
+descripcion: |
+
+      Vamos a continuar viendo los tema que arrancamos la semana pasada, interfaces, composición, etc.
+      Vamos a ver algunas cositas del lenguaje Java: Manejo de excepciones, API Collections
+      
+      Lo visto en clase durante esta semana está en este repo [obj2-unahur-2019s2/semana-5](https://github.com/obj2-unahur-2019s1/semana-5.git)
+ejercicios:
+      - name: descuentos
+        repo: obj2-unahur-2019s1/descuentos
+        classroom: https://classroom.github.com/a/iB6Z0dVP
+      - name: tp2-n3fli
+        repo: obj2-unahur-2019s1/n3fli
+        classroom: https://classroom.github.com/a/GNpVWxHU  
+        
+        
