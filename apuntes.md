@@ -15,6 +15,10 @@ Recordemos Wollok, el primer lenguaje orientado a objetos que vimos, acá tenemo
 
 Java es un lenguaje de programación de propósito general, concurrente, orientado a objetos, que fue diseñado específicamente para tener tan pocas dependencias de implementación como fuera posible. Su intención es permitir que los desarrolladores de aplicaciones escriban el programa una vez y lo ejecuten en cualquier dispositivo (conocido en inglés como WORA, o "write once, run anywhere"), lo que quiere decir que el código que es ejecutado en una plataforma no tiene que ser recompilado para correr en otra. Java es, a partir de 2012, uno de los lenguajes de programación más populares en uso, particularmente para aplicaciones de cliente-servidor de web, con unos diez millones de usuarios reportados.
 
+Para arrancar tenemos el siguiente resumen:
+
+- [Java 101](https://github.com/obj2-unahur/obj2-unahur.github.io/wiki/Java-101)
+
 Al ser tan popular es fácil documentacion y videos sobre el lenguaje, pero si buscamos la documentación oficial del mismo, tenemos que ir al siguiente link [documentación Java 8](https://docs.oracle.com/javase/8/docs/).
 
 Desde el link podemos llegar a toda la documentación sobre la plataforma Java, está en ingles si (hay q ir acostumbrandose a leer en ingles) y es fácil perderse  porque hay muchos link disponibles.
@@ -26,3 +30,9 @@ Les voy a pasar link puntuales a tutoriales de la documentación que nos van a s
 - [Colecciones](https://docs.oracle.com/javase/tutorial/collections/index.html)
 - [Streams](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html)
 - [Generics](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
+
+## Patrones de diseño
+
+- [Patrones 101](https://github.com/obj2-unahur/obj2-unahur.github.io/wiki/Patrones-de-dise%C3%B1o)
+
+
