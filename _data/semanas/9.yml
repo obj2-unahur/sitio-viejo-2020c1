@@ -4,7 +4,7 @@ descripcion: |
       El desafio es identificar en el modelo planteado, si es que existe, un problema para el cual ya existe un patron de diseño que lo soluciona y utilizarlo.
             
 ejercicios:
-      - name: TP infusiones
+      - name: TP restaurante
         repo: obj2-unahur-2019s1/restaurante
         classroom: https://classroom.github.com/a/0EFBFJ3t
       - name: servicio-meteorologico
