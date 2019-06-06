@@ -3,5 +3,8 @@ descripcion: |
             
 ejercicios:
       - name: Parcial 1
-        repo: NO DISPONIBLE
+        repo: https://github.com/obj2-unahur/diabolico
+        classroom: https://classroom.github.com/a/BdqCbt5o
+      - name: TP Maquina de Gaseosas - Entrega Martes 11/6
+        repo: https://github.com/obj2-unahur/diabolico
         classroom: https://classroom.github.com/a/BdqCbt5o
