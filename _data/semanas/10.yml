@@ -4,12 +4,9 @@ descripcion: |
       
       Fecha de recuperatorio 1er parcial: Martes 25/6
       
-      
-      
-            
 ejercicios:
       - name: Parcial 1
-        repo: https://github.com/obj2-unahur/diabolico
+        repo: obj2-unahur/diabolico
         classroom: https://classroom.github.com/a/BdqCbt5o
       - name: TP Maquina de Gaseosas - Entrega Martes 11/6
         repo: NO DISPONIBLE
