@@ -8,6 +8,7 @@ En esta página vas a encontrar lo necesario para tu cursada de **Programación 
 
 * Condiciones para aprobar la materia [contrato pedagógico](/contrato-pedagogico)
 * Detalle de la cursada [cursada](/cursada).
+* Guia de ejercicios de Patrones de diseño [guia-patrones](https://classroom.github.com/a/lP1h0dgj)
 
 ## Días y horarios de cursada
 
