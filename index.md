@@ -9,6 +9,8 @@ En esta página vas a encontrar lo necesario para tu cursada de **Programación 
 * Condiciones para aprobar la materia [contrato pedagógico](/contrato-pedagogico)
 * Detalle de la cursada [cursada](/cursada).
 * Guía de ejercicios de Patrones de diseño [guía-patrones](https://classroom.github.com/a/lP1h0dgj)
+* Recuperatorio del Parcial [25-06-2019](https://classroom.github.com/a/CG579sXJ)
+
 
 ## Días y horarios de cursada
 
