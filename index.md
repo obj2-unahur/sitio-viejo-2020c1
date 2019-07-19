@@ -9,7 +9,6 @@ En esta página vas a encontrar lo necesario para tu cursada de **Programación 
 * Condiciones para aprobar la materia [contrato pedagógico](/contrato-pedagogico)
 * Detalle de la cursada [cursada](/cursada).
 * Guía de ejercicios de Patrones de diseño [guía-patrones](https://classroom.github.com/a/lP1h0dgj)
-* Resuelto del Parcial [25-06-2019](https://github.com/obj2-unahur-2019s1/recuperatorio-objetos2-25062019/tree/completo)
 
 
 ## Días y horarios de cursada
