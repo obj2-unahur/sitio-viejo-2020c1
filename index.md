@@ -7,8 +7,8 @@ layout: landing
 En esta página vas a encontrar lo necesario para tu cursada virtual de **Programación con Objetos II**. 
 Vamos a reforzar y profundizar lo ya visto en materias anteriores de programación y también 
   * Aprender lenguajes nuevos
-  * Conocer y apliar buenas prácticas de diseño y programación
-  * Conocer y usar herramientas usados en la industria.
+  * Conocer y aplicar buenas prácticas de diseño y programación
+  * Conocer y usar herramientas usadas en la industria.
   * Principios de dieseño y patrones que aplican esos principios
   * Introducción a la integración continua, ¿qué es y para qué se usa?
 
@@ -21,7 +21,7 @@ Como ya sabemos, este es un cuatrimestre particular debido al aislamiento obliga
 
 * vamos a grabar una clase teórica por semana para que puedan organizarse uds en qué momento pueden verla. La vamos a publicar los martes que es el día originalde la materia. Les recomendamos fijar horarios para verla dependiendo de las posibilidades de c/u. 
 * posterior a la publicación de la teoría vamos a pautar horarios online para consultas y resolución de ejercicios. Es imprescindible que hayan visto la clase teórica para que estos encuentros puedan ser más dinámicos y estemos todos alineados
-* además cada semana vamos a tener un repo que va a estar linkeado desde esta página con la presentación teórica, yotro con ejercios practicos para resolver y un branch con la resolución de algunos. 
+* además cada semana vamos a tener un repo que va a estar linkeado desde esta página con la presentación teórica, y otro con ejercios practicos para resolver y un branch con la resolución de algunos. 
 Siempre pudiendo hacer consultas en los canales habilitados.
 
 ## Canales de comunicación
