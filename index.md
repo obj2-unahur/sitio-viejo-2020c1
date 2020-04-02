@@ -2,25 +2,32 @@
 layout: landing
 ---
 
-¡Bienvenide!
+¡Bienvenidas, bienvenidos, bienvenides!
 
-En esta página vas a encontrar lo necesario para tu cursada de **Programación con Objetos II**. Está materia es la continuación de [Programación con Objectos I](https://obj1-unahur.github.io/), vamos a reforzar y profundizar lo ya visto así como también aprender lenguajes y herramientas usados en la industria.
+En esta página vas a encontrar lo necesario para tu cursada virtual de **Programación con Objetos II**. 
+Vamos a reforzar y profundizar lo ya visto en materias anteriores de programación y también 
+  * Aprender lenguajes nuevos
+  * Conocer y apliar buenas prácticas de diseño y programación
+  * Conocer y usar herramientas usados en la industria.
+  * Principios de dieseño y patrones que aplican esos principios
+  * Introducción a la integración continua, ¿qué es y para qué se usa?
 
-* Condiciones para aprobar la materia [contrato pedagógico](/contrato-pedagogico)
-* Detalle de la cursada [cursada](/cursada).
-* Guía de ejercicios de Java [guía-java](https://github.com/obj2-unahur-2019s2/guia-ejercicios-java)
-* Guía de ejercicios de Patrones de diseño [guía-patrones]()
-
+## Cronograma y condiciones de aprobación 
+* [condiciones de aprobación](/condiciones-aprobacion)
+* [cronograma](/cronograma.pdf)
 
 ## Días y horarios de cursada
+Como ya sabemos, este es un cuatrimestre particular debido al aislamiento obligatorio que estamos transitando por lo cual reformulamos la cursada de esta forma:
 
-**Turno noche:**
-* Martes de 18:00 a 22:00 
-* Jueves de 18:00 a 20:00.
-* Los profes somos Julia Gambuzzi y Darío Hruszecki.
+* vamos a grabar una clase teórica por semana para que puedan organizarse uds en qué momento pueden verla. La vamos a publicar los martes que es el día originalde la materia. Les recomendamos fijar horarios para verla dependiendo de las posibilidades de c/u. 
+* posterior a la publicación de la teoría vamos a pautar horarios online para consultas y resolución de ejercicios. Es imprescindible que hayan visto la clase teórica para que estos encuentros puedan ser más dinámicos y estemos todos alineados
+* además cada semana vamos a tener un repo que va a estar linkeado desde esta página con la presentación teórica, yotro con ejercios practicos para resolver y un branch con la resolución de algunos. 
+Siempre pudiendo hacer consultas en los canales habilitados.
 
 ## Canales de comunicación
+Vamos a utilizar discord como medio de comunicación, en la categoría objetos-2 iremos agregando canales. *TODO* lo que necesitemos informar, fechas importantes, publicación de clases, etc. lo vamos a publicar por ahí.
 
-Vamos a utilizar esta página para subir material, fechas importantes y todo lo relacionado a la cursada. Tal vez sea una buena idea agregarla a los favoritos de tu navegador. :link::globe_with_meridians:
+## Profes
+Somos Julia Gambuzzi y Darío Hruszecki.
+Ambos licenciad@s en análisis de sistemas y trabajamos hace muchos años en la industria privada además de dar clases. Estamos muy contentos de poder compartirles nuestra experiencia y conocimiento y esperamos que sea un cuatrimestre muy rico tanto para ustedes como para nosotr@s
 
-Para avisos de último momento, novedades y consultas vamos a utilizar el [campus de la Universidad](http://campus.unahur.edu.ar/). Es importante que lo revises regularmente para no perderte nada.
