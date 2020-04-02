@@ -1,6 +1,6 @@
-La materia va a tener 11  clases teóricas, 11 módulos, cada clase va a tener un repo en github con ejercicios sobre esa temática (con un branch en el cual va a estar resueltos para uds se auto corrijan) y otro repro con una presentación con la teoría.
-De esa forma todo lo q necesiten de cada tema va a estar siempre en 2 repros, uno teoría (la ppt) y otro con la practica (ejercicios para completar y su resolución).
-Para acceder a la práctica lo único q tienen q hacer es clonarse en repo y listo.
+La materia va a tener 11  clases teóricas, 11 módulos, cada clase va a tener un repo en github con ejercicios sobre esa temática con un branch en el cual van a estar resueltos para que puedan validar sus resoluciones y otro repo con una presentación con la teoría.
+De esa forma todo lo que necesiten de cada tema va a estar siempre en 2 repros, uno teoría (la presentación) y otro con la práctica (ejercicios para completar y su resolución).
+Para acceder a la práctica lo único que tienen que hacer es clonarse el repositorio.
 
 ## Requisitos para regularidad y aprobación
 
@@ -19,3 +19,5 @@ En principio nosotros vamos a definir en qué fecha presenta cada grupo
 
 ### Req#3 - Asistencia
 Para mantener la regularidad solo pueden estar ausentes en 1(UNA) presentación de los TPs
+
+_Recomendamos ver [este video](https://youtu.be/RYOGQ3d0Oqg) para refrescar las condiciones que establece la universidad_
