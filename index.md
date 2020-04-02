@@ -27,7 +27,7 @@ Siempre pudiendo hacer consultas en los canales habilitados.
 ## Canales de comunicación
 Vamos a utilizar discord como medio de comunicación, en la categoría objetos-2 iremos agregando canales. *TODO* lo que necesitemos informar, fechas importantes, publicación de clases, etc. lo vamos a publicar por ahí.
 
-# Profes
+## Profes
 Somos Julia Gambuzzi y Darío Hruszecki.
 Ambos licenciad@s en análisis de sistemas y trabajamos hace muchos años en la industria privada además de dar clases. Estamos muy contentos de poder compartirles nuestra experiencia y conocimiento y esperamos que sea un cuatrimestre muy rico tanto para ustedes como para nosotr@s
 
