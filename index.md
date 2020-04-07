@@ -2,6 +2,15 @@
 layout: landing
 ---
 
+##Actualización semana 1 - 07-04-2020
+
+Links con material para empezar
+* [Presentación] (https://obj2-unahur.github.io/01-intro/#/)
+* [Lista de reproducción de la materia en YouTube con el Video de bienvenida] (https://www.youtube.com/playlist?list=PLvysGHYwMny1p0eFTrhn4HmGhnzOxBmOI)
+* [Guía de ejercicios - *manos a la obra*] (https://github.com/obj2-unahur/01-intro-practica-v1)
+
+___________________________________
+
 ¡Bienvenidas, bienvenidos, bienvenides!
 
 En esta página vas a encontrar lo necesario para tu cursada virtual de **Programación con Objetos II**. 
