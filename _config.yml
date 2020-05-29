@@ -2,5 +2,6 @@ theme: jekyll-theme-cayman
 lang: es-AR
 google_analytics: UA-136888672-1
 title: Programación con Objetos II
+thumbnail: "/path/to/the/thumbnail.png"
 plugins:
   - jemoji
